@@ -120,5 +120,8 @@ int main() {
     printf("Pontos Turisticos: %d\n", turismo2);
 
     printf("\nDivirta-se jogando!\n");
+
+    //Commit é complicado em...
+
     return 0;
 }
